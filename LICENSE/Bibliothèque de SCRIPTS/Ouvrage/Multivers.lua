@@ -40,6 +40,11 @@ local GamesData = {
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/7"))()
 	end,
 
+	  	-- Exemple 6
+	[131623223084840] = function()
+		print("✅ Jeu reconnu : " .. gameName)
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/7"))()
+	end,
 }
 
 -- ==========================================
