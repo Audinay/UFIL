@@ -31,20 +31,20 @@ local GamesData = {
   	-- Exemple 4
 	[81640207246871] = function()
 		print("✅ Jeu reconnu : " .. gameName)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/6"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/hjtyjyty.lua"))()
 	end,
 
   	-- Exemple 5
 	[131623223084840] = function()
 		print("✅ Jeu reconnu : " .. gameName)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/7"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/GKIJIJTYNYTYN.LUA"))()
 	end,
 
-	  	-- Exemple 6
-	[131623223084840] = function()
+  	 Exemple 6 
+	 [3623096087] = function()
 		print("✅ Jeu reconnu : " .. gameName)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv2%20Hub/7"))()
-	end,
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Audinay/JKL1/refs/heads/main/SORONICEv6%20HUB/ML.lua"))()
+	 end,
 }
 
 -- ==========================================
